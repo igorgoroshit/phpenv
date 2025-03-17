@@ -1,0 +1,17 @@
+{
+    "name": "igorgoroshit/envy",
+    "authors": [
+        {
+            "name": "Igor Goroshit",
+            "email": "igor@webt.co.il"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Envy\\": "src/"
+        }
+    },
+
+    "require": {}
+}
